@@ -67,10 +67,10 @@ To view our presentation, click [here](www.github.com).
 
 
 ## <a id="Sources">Sources</a>
-- [US EPA](www.epa.gov)
+- [US EPA](https://www.epa.gov/)
   - [EPA AirData Daily Summary Data](https://aqs.epa.gov/aqsweb/airdata/download_files.html#Daily)
   - [About AirData Reports](https://www.epa.gov/outdoor-air-quality-data/about-air-data-reports)
-- [AirNow](www.airnow.gov)
+- [AirNow](https://www.airnow.gov/)
 
 
 
