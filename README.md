@@ -80,16 +80,32 @@ To view our presentation, click [here](www.github.com).
 ## Repository Structure
 ```
 ├── [data]
-│    ├── 
-│    ├── 
-│    ├── 
-│    ├── 
-│    ├── 
-│    └── 
+│    ├── [dailyCO]
+│    ├── [dailyNO2]
+│    ├── [dailyO3]
+│    ├── [dailySO2]
+│    ├── CO.csv
+│    ├── COtrim.csv
+│    ├── NO2.csv
+│    ├── NO2trim.csv
+│    ├── O3.csv
+│    ├── O3trim.csv
+│    ├── SO2.csv
+│    ├── SO2trim.csv
+│    ├── creating_individual_datasets.py
+│    └── states_and_counties.csv
 ├── [images]
+│    ├── 
+│    ├── 
+│    ├── 
+│    ├── 
+│    ├── 
+│    └──
 ├── .gitignore
 ├── README.md
+├── creating_individual_datasets.ipynb
+├── creating_trim_datasets.ipynb
 ├── notebook.ipynb
-├── presentation.pdf
-└── time_series.ipynb
+├── time_series.ipynb
+└── presentation.pdf
 ```
