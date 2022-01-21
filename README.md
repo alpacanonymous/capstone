@@ -71,6 +71,7 @@ To view our presentation, click [here](www.github.com).
   - [EPA AirData Daily Summary Data](https://aqs.epa.gov/aqsweb/airdata/download_files.html#Daily)
   - [About AirData Reports](https://www.epa.gov/outdoor-air-quality-data/about-air-data-reports)
 - [AirNow](https://www.airnow.gov/)
+  - [Technical Assistance Document for the Reporting of Daily Air Quality (pdf)](https://www.airnow.gov/sites/default/files/2020-05/aqi-technical-assistance-document-sept2018.pdf)
 
 
 
