@@ -90,6 +90,6 @@ To view our presentation, click [here](www.github.com).
 ├── .gitignore
 ├── README.md
 ├── notebook.ipynb
-├── final_presentation.pdf
+├── presentation.pdf
 └── time_series.ipynb
 ```
