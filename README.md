@@ -1,4 +1,4 @@
-# CAPSTONE
+# Predicting Air Quality Based on Four Major Pollutants
 
 
 ## Overview
