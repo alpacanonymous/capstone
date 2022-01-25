@@ -1,4 +1,5 @@
-# Predicting Air Quality Based on Four Major Pollutants
+![nyc banner](https://github.com/alpacanonymous/capstone/blob/main/images/nycbanner.jpeg?raw=true)
+# Predicting NYC Air Quality Based on Four Major Pollutants
 
 
 ## Overview
@@ -80,32 +81,25 @@ To view our presentation, click [here](www.github.com).
 ## Repository Structure
 ```
 ├── [data]
-│    ├── [dailyCO]
-│    ├── [dailyNO2]
-│    ├── [dailyO3]
-│    ├── [dailySO2]
-│    ├── CO.csv
-│    ├── COtrim.csv
-│    ├── NO2.csv
-│    ├── NO2trim.csv
-│    ├── O3.csv
-│    ├── O3trim.csv
-│    ├── SO2.csv
-│    ├── SO2trim.csv
-│    ├── creating_individual_datasets.py
-│    └── states_and_counties.csv
+│    ├── nycCO.csv
+│    ├── nycNO2.csv
+│    ├── nycO3.csv
+│    └── nycSO2.csv
 ├── [images]
-│    ├── 
+│    ├── nycbanner.jpeg
 │    ├── 
 │    ├── 
 │    ├── 
 │    ├── 
 │    └──
+├── [pdfs]
+│    ├── github.pdf
+│    ├── notebook.pdf
+│    └── presentation.pdf
 ├── .gitignore
 ├── README.md
-├── creating_individual_datasets.ipynb
-├── creating_trim_datasets.ipynb
+├── creating_datasets.ipynb
+├── 
 ├── notebook.ipynb
-├── time_series.ipynb
-└── presentation.pdf
+└── time_series.ipynb
 ```
