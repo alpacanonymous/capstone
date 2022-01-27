@@ -133,12 +133,6 @@ To view my presentation, click [here](www.github.com).
 │    ├── nycO3.csv
 │    └── nycSO2.csv
 ├── [images]
-│    ├── nycbanner.jpeg
-│    ├── 
-│    ├── 
-│    ├── 
-│    ├── 
-│    └──
 ├── [pdfs]
 │    ├── github.pdf
 │    ├── notebook.pdf
@@ -146,7 +140,6 @@ To view my presentation, click [here](www.github.com).
 ├── .gitignore
 ├── README.md
 ├── create_datasets.ipynb
-├── 
 ├── notebook.ipynb
 └── time_series.ipynb
 ```
