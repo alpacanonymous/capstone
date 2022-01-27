@@ -125,8 +125,8 @@ To view my presentation, click [here](www.github.com).
 - [Air Pollution | WHO](https://www.who.int/health-topics/air-pollution)
 - [Explore Air Pollution in New York | 2021 Annual Report](https://www.americashealthrankings.org/explore/annual/measure/air/state/NY)
 - [Health Impacts of Air Pollution | Environmental Defense Fund](https://www.edf.org/health/health-impacts-air-pollution#:~:text=Air%20pollution%20is%20now%20the,AIDS%2C%20tuberculosis%20and%20malaria%20combined.)
-- [The Effect Of Air Pollution On Investor Behavior: Evidence From the S&P 500](https://www.nber.org/system/files/working_papers/w22753/w22753.pdf)
-- [How much does air pollution cost the U.S.?](https://earth.stanford.edu/news/how-much-does-air-pollution-cost-us#gs.nqbvs2)
+- [The Effect Of Air Pollution On Investor Behavior: Evidence From the S&P 500 (pdf) | A. Heyes, M. Neidell, S. Saberian](https://www.nber.org/system/files/working_papers/w22753/w22753.pdf)
+- [How much does air pollution cost the U.S.? | Stanford University](https://earth.stanford.edu/news/how-much-does-air-pollution-cost-us#gs.nqbvs2)
 
 
 
