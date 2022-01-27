@@ -33,30 +33,30 @@ The data for this project was collected from the US Environmental Protection Age
 The AQI was developed by the EPA to provide a simple, uniform way to report daily air quality conditions across all recorded pollutants. The national standard is set at 100, meaning that this is the score at which the EPA deems air quality to be safe for most of the population. After that, there is increased risk of illness for sensitive groups up until hazardous conditions above 300. For each day, each pollutant records an AQI value, which may vary, but the final AQI chosen is the one that reports the highest AQI value. For example, if the AQI of O3 is 98, the AQI of CO is 74, and the AQI of NO2 is 103, the AQI of that day will be reported as 103.
 
 <b>Ground-level Ozone (O3)</b>
-concentration measured in ppb
-commonly known as smog
-formed from combustion of fossil fuels
-short-term exposure: chest pain, coughing, throat irritation
-long-term exposure: decreased lung function, COPD
+- concentration measured in ppb
+- commonly known as smog
+- formed from combustion of fossil fuels
+- short-term exposure: chest pain, coughing, throat irritation
+- long-term exposure: decreased lung function, COPD
 
 <b>Carbon Monoxide (CO)</b>
-concentration measured in ppm
-formed from burning of fossil fuels, mainly by vehicles
-reduces amount of oxygen that can be transported by bloodstream
-short-term exposure: chest pain
-enclosed environment: dizziness, confusion, unconscious, death
+- concentration measured in ppm
+- formed from burning of fossil fuels, mainly by vehicles
+- reduces amount of oxygen that can be transported by bloodstream
+- short-term exposure: chest pain
+- enclosed environment: dizziness, confusion, unconscious, death
 
 <b>Nitrogen Dioxide (NO2)</b>
-concentration measured in ppb
-produced primarily by transportation sector
-can result in development and exacerbations of asthma and bronchitis
-can lead to higher risk of heart disease
+- concentration measured in ppb
+- produced primarily by transportation sector
+- can result in development and exacerbations of asthma and bronchitis
+- can lead to higher risk of heart disease
 
 <b>Sulfur Dioxide (SO2)</b>
-concentration measured in ppb
-emitted by burning of sulfur-containing fossil fuels
-causes eye irritation, worsens asthma, increases susceptibility to respiratory infections, impacts cardiovascular system
-combined with water, forms sulfuric acid, the main component of acid rain, which then contributes to deforestation
+- concentration measured in ppb
+- emitted by burning of sulfur-containing fossil fuels
+- causes eye irritation, worsens asthma, increases susceptibility to respiratory infections, impacts cardiovascular system
+- combined with water, forms sulfuric acid, the main component of acid rain, which then contributes to deforestation
 
 
 
@@ -87,7 +87,9 @@ I chose RMSE (root mean squared error) and MASE (mean absolute scaled error) as 
 
 #### Model 3
 
+
 Click [here](www.github.com) for further details on our iterative model approach.
+
 
 
 ## Visualizations
@@ -100,7 +102,7 @@ My final model performed well.
 
 
 
-To view our presentation, click [here](www.github.com).
+To view my presentation, click [here](www.github.com).
 
 
 ## Next Steps
