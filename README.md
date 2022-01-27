@@ -77,15 +77,20 @@ I chose RMSE (root mean squared error) and MASE (mean absolute scaled error) as 
 
 
 #### Baseline Model
-
+- RMSE: 1.00
+- MASE: 1.00
 
 #### Model 1
-
+- RMSE: - -
+- MASE: - -
 
 #### Model 2
-
+- RMSE: - -
+- MASE: - -
 
 #### Model 3
+- RMSE: 0.67
+- MASE: 0.67
 
 
 Click [here](www.github.com) for further details on our iterative model approach.
