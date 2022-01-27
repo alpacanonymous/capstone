@@ -103,7 +103,9 @@ Click [here](www.github.com) for further details on our iterative model approach
 
 
 ## Conclusions
-My final model performed well.
+In conclusion, my SARIMA model forecasted air quality in New York City quite well and could even be used in shaping government policy on public health. I would recommend implementing measures to decrease the presence of air pollutants, especially ozone and nitrogen dioxide, as there hasn't been much decrease from 2000.
+
+
 
 
 
@@ -111,7 +113,7 @@ To view my presentation, click [here](www.github.com).
 
 
 ## Next Steps
-
+Given more time and resources, I would like to explore beyond New York City, modeling for other cities and even seeing how cities compare to suburban or rural areas. Another pollutant I'd like to consider is particulate matter. In terms of modeling, it would be interesting to see how well a recurrent neural network would perform.
 
 
 
