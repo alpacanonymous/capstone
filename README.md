@@ -140,6 +140,5 @@ To view my presentation, click [here](www.github.com).
 ├── .gitignore
 ├── README.md
 ├── create_datasets.ipynb
-├── notebook.ipynb
-└── time_series.ipynb
+└── notebook.ipynb
 ```
