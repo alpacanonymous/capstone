@@ -71,7 +71,7 @@ Click [here](https://github.com/alpacanonymous/capstone/blob/main/create_dataset
 
   
 
-## Modeling
+## Modeling & Forecasting
 I chose RMSE (root mean squared error) as my forecast metric. RMSE is easily interpretable and on the same scale as my target variable, AQI.
 
 
@@ -88,7 +88,7 @@ I chose RMSE (root mean squared error) as my forecast metric. RMSE is easily int
 - RMSE: 0.8
 
 
-Click [here](www.github.com) for further details on our iterative model approach.
+Click [here](https://github.com/alpacanonymous/capstone/blob/main/notebook.ipynb) for further details on my iterative modeling approach.
 
 
   
