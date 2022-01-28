@@ -96,6 +96,7 @@ Click [here](www.github.com) for further details on our iterative model approach
 ## Visualizations
 ![daily_aqi_plot](https://user-images.githubusercontent.com/79756630/151485920-e7c68a3c-869b-48cd-823a-16c21e2dc777.png)
 ![monthly_aqi_plot](https://user-images.githubusercontent.com/79756630/151485945-96020b62-6235-453f-b131-53104636dccb.png)
+![image](https://user-images.githubusercontent.com/79756630/151486715-db7cdf7e-91e4-442c-81dd-86448654e259.png)
 ![yearly_aqi_plot](https://user-images.githubusercontent.com/79756630/151485965-abc14d05-b4f7-448e-a30f-b0013ebfd8e7.png)
 
   
