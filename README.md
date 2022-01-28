@@ -24,7 +24,6 @@ Decreasing air pollution would benefit public health and the economy and contrib
 
 
 
-
 ## Data Understanding
 
 The data for this project was collected from the US Environmental Protection Agency (EPA). The EPA provides open-source pre-generated data files on air pollution dating back to 1980. I gathered the daily summary data for the years 2000-2021. Each pollutant had its own dataset of daily records per year, totalling 88 individual datasets for this project. Each dataset had the same 29 features. The target variable is the Air Quality Index (AQI) score. I chose to focus on four major gas pollutants.
@@ -59,7 +58,7 @@ The data for this project was collected from the US Environmental Protection Age
 - combined with water, forms sulfuric acid, the main component of acid rain, which then contributes to deforestation
 
 
-
+  
 
 ## Data Preparation & Analysis
 
@@ -67,53 +66,55 @@ After downloading all 88 required datasets, I concatenated them into their respe
 
 Many of the resulting `.csv` files were too large to upload onto github with its limit of 100MB, but you can download all the files I used from the EPA site and run my `create_datasets` notebook to get the compiled datasets.
 
-Click [here](www.github.com) for more details on my data preparation and analysis.
+Click [here](https://github.com/alpacanonymous/capstone/blob/main/create_datasets.ipynb) for more details on my data preparation.
 
 
-
+  
 
 ## Modeling
-I chose RMSE (root mean squared error) and MASE (mean absolute scaled error) as my model metrics. RMSE is easily interpretable and on the same scale as my target variable, AQI. MASE, proposed by Rob J. Hyndman and Anne B. Koehler in 2005, is currently touted as the best accuracy metric for time series forecasting.
+I chose RMSE (root mean squared error) as my forecast metric. RMSE is easily interpretable and on the same scale as my target variable, AQI.
 
 
 #### Baseline Model
-- RMSE: 1.00
-- MASE: 1.00
+- RMSE: 1.55
 
 #### Model 1
 - RMSE: - -
-- MASE: - -
 
 #### Model 2
 - RMSE: - -
-- MASE: - -
 
 #### Model 3
-- RMSE: 0.67
-- MASE: 0.67
+- RMSE: 0.8
 
 
 Click [here](www.github.com) for further details on our iterative model approach.
 
 
+  
 
 ## Visualizations
+![daily_aqi_plot](https://user-images.githubusercontent.com/79756630/151485920-e7c68a3c-869b-48cd-823a-16c21e2dc777.png)
+![monthly_aqi_plot](https://user-images.githubusercontent.com/79756630/151485945-96020b62-6235-453f-b131-53104636dccb.png)
+![yearly_aqi_plot](https://user-images.githubusercontent.com/79756630/151485965-abc14d05-b4f7-448e-a30f-b0013ebfd8e7.png)
 
-
-
+  
+  
 
 ## Conclusions
-In conclusion, my SARIMA model forecasted air quality in New York City quite well and could even be used in shaping government policy on public health. I would recommend implementing measures to decrease the presence of air pollutants, especially ozone and nitrogen dioxide, as there hasn't been much decrease from 2000.
+In conclusion, my SARIMA model forecasted air quality in New York City quite well and could even be used in shaping government policy on public health. I would recommend implementing measures to decrease the presence of air pollutants, especially ozone and nitrogen dioxide, as there hasn't been much decrease from 2000. I would also suggest posting air quality forecasts, so that vulnerable populations can plan ahead.
 
 
+To view my presentation, click [here](https://github.com/alpacanonymous/capstone/blob/main/presentation.pdf).
 
-
-
-To view my presentation, click [here](www.github.com).
-
-
+  
+  
+  
 ## Next Steps
-Given more time and resources, I would like to explore beyond New York City, modeling for other cities and even seeing how cities compare to suburban or rural areas. Another pollutant I'd like to consider is particulate matter. In terms of modeling, it would be interesting to see how well a recurrent neural network would perform.
+
+Given more time and resources, I would like to explore beyond New York City, modeling for other cities and even seeing how cities compare to suburban or rural areas. Another pollutant I'd like to consider is particulate matter. 
+
+In terms of modeling, I would like to see how well a recurrent neural network would perform and venture into vector auto regression for multivariate time series.
 
 
 
@@ -132,6 +133,7 @@ Given more time and resources, I would like to explore beyond New York City, mod
 
 
 
+  
 ## Repository Structure
 ```
 ├── [data]
