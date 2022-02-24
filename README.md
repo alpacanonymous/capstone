@@ -132,7 +132,7 @@ In terms of modeling, I would like to see how well a recurrent neural network wo
 - [The Effect Of Air Pollution On Investor Behavior: Evidence From the S&P 500 (pdf) | A. Heyes, M. Neidell, S. Saberian](https://www.nber.org/system/files/working_papers/w22753/w22753.pdf)
 - [How much does air pollution cost the U.S.? | Stanford University](https://earth.stanford.edu/news/how-much-does-air-pollution-cost-us#gs.nqbvs2)
 
-
+           
 
   
 ## Repository Structure
